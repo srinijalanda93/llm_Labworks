@@ -40,6 +40,7 @@ Sports/Media: MediaSum-based T5, E-commerce: AmazonProductBERT
 
 
 <hr>
+<h1>Lab-4</h1>
 <h1>lab 5 Sequence signal.token classification,QA-->BERT AND BERT BASED MODEL,insight,API required</h1>
 <h2>Evalution sequence f1,token entity recall,qa f1 score</h2>
 
