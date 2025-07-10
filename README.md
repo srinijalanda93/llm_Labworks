@@ -41,6 +41,16 @@ Sports/Media: MediaSum-based T5, E-commerce: AmazonProductBERT
 
 <hr>
 <h1>Lab-4</h1>
+
+<img width="1470" alt="Screenshot 2025-07-10 at 11 01 08 AM" src="https://github.com/user-attachments/assets/23d3b0e4-3151-413f-8798-a072d2161837" />
+<img width="1470" alt="Screenshot 2025-07-10 at 11 01 27 AM" src="https://github.com/user-attachments/assets/fe633c72-13cb-4f46-b652-7ac9fdae7209" />
+<img width="1470" alt="Screenshot 2025-07-10 at 11 01 35 AM" src="https://github.com/user-attachments/assets/106dfb68-e5fd-459c-8e23-b78454347a1c" />
+<img width="1470" alt="Screenshot 2025-07-10 at 11 49 17 AM" src="https://github.com/user-attachments/assets/5bd96183-b654-45ff-bc50-5f251438d80d" />
+
+
+
+
+<hr>
 <h1>lab 5 Sequence signal.token classification,QA-->BERT AND BERT BASED MODEL,insight,API required</h1>
 <h2>Evalution sequence f1,token entity recall,qa f1 score</h2>
 
