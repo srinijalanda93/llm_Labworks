@@ -60,4 +60,34 @@ Sports/Media: MediaSum-based T5, E-commerce: AmazonProductBERT
 
 <img width="1470" height="835" alt="Screenshot 2025-07-24 at 11 22 50 AM" src="https://github.com/user-attachments/assets/69ed6ab6-34c1-4c1c-8ffe-d3970b2508f4" />
 
+<hr>
+<h1>Lab-6 Logical Q & A system</h1>
+<p>
+Syllogism
+Direction-based problems
+Blood relation
+Number series
+Puzzle-based logical questions
+Cause-and-effect or assumption-based MCQs
+</p>
+<h2>Here, provide the confidence level of the  used model since, in summary, we can use the F1 score, which regards a model fine-tuning</h2>
+<h2>Use case of using confidence level: a probability, expressed as a percentage, indicating the accuracy of the model used at the prediction level. </h2>
+<h2>What does F1-score the F1 score is a summary metric. where it considers Recall and precision </h2>
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Model name</th>
+    <th>Type of scenario</th>
+    <th>Confidence-score</th>
+  </tr>
+  <tr>
+    <th>English</th>
+    <th>deepset/roberta-base-squad2</th>
+    <th>Cause-and-effect or assumption-based MCQs
+      "Is it correct to assume that fuel prices affect goods prices?"->The government increased taxes on fuel. The prices of all goods increased.
+    </th>
+    <th>0.2057</th>
+  </tr>
+  
+</table>
 
