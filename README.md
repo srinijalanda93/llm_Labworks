@@ -91,3 +91,9 @@ Cause-and-effect or assumption-based MCQs
   
 </table>
 
+
+<img width="995" height="776" alt="Screenshot 2025-08-07 at 11 59 23 AM" src="https://github.com/user-attachments/assets/487977bb-87b4-4028-a28a-a7d0008b73d3" />
+<img width="706" height="793" alt="Screenshot 2025-08-07 at 12 02 19 PM" src="https://github.com/user-attachments/assets/ea15b3b9-e7b8-4831-9910-a622d7dfae43" />
+
+
+
