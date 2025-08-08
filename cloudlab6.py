@@ -2,7 +2,7 @@ from google.cloud import storage, speech
 import os
 
 # Set credentials path
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/srinija/Downloads/calendar-chatbot-project-4952ba51de3c.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/srinija/Downloads/calendar-chatbot-project-.json"
 
 def transcribe_audio(bucket_name, audio_file_name, output_file_name):
     try:
