@@ -101,5 +101,7 @@ Cause-and-effect or assumption-based MCQs
 <img width="1470" height="540" alt="Screenshot 2025-08-17 at 11 12 46 AM" src="https://github.com/user-attachments/assets/badae082-89c6-4a0f-8ed2-d09b24c1f21f" />
 <img width="1470" height="632" alt="Screenshot 2025-08-17 at 11 12 36 AM" src="https://github.com/user-attachments/assets/37baf8e8-f25b-4843-aa8f-545c86918f6e" />
 <img width="1470" height="844" alt="Screenshot 2025-08-17 at 11 12 25 AM" src="https://github.com/user-attachments/assets/c96105bc-9313-426a-9e5b-7c3ba7f19a52" />
-<img width="1470" height="844" alt="Screenshot 2025-08-17 at 11 12 18 AM" src="https://github.com/user-attachments/assets/802015b5-8cbe-44d3-9cc8-ffbc14538b4f" />
-<img width="1470" height="844" alt="Screenshot 2025-08-17 at 11 12 11 AM" src="https://github.com/user-attachments/assets/d8c33a56-aaf5-439c-b267-cd06ac6bfd26" />
+<img width="1470" height="841" alt="Screenshot 2025-08-28 at 12 04 50 PM" src="https://github.com/user-attachments/assets/ae4287c0-484a-41c3-8bc4-976b32eebbbb" />
+<img width="1470" height="841" alt="Screenshot 2025-08-28 at 12 04 55 PM" src="https://github.com/user-attachments/assets/1647f9aa-c2d1-43f5-92df-1b61a0ea9f4f" />
+
+
